@@ -145,7 +145,7 @@ $(".view_crud").click(()=>{
   window.open("assets/CRUDBookStoreGuide.pdf")
 })
 
-$(".view_crud").click(()=>{
+$(".code_crud").click(()=>{
   window.open("https://github.com/AyuVirgiana/crud-admin-toko-buku")
 })
 
