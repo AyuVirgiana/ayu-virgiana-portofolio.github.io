@@ -150,7 +150,7 @@ $(".view_omahkita").click(()=>{
 })
 
 $(".view_doc_omahkita").click(()=>{
-  window.open("assets/doc_ui_ux.pdf")
+  window.open("assets/UiUx.pdf")
 })
 
 $(".view_certif").click(()=>{
