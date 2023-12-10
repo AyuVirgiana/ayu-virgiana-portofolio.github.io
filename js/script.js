@@ -150,7 +150,7 @@ $(".view_omahkita").click(()=>{
 })
 
 $(".view_doc_omahkita").click(()=>{
-  window.open("assets/projects/UAS_UX_Ayu Purnama Virgiana_210040171")
+  window.open("assets/UAS_UX_Ayu Purnama Virgiana_210040171")
 })
 
 $(".view_certif").click(()=>{
