@@ -145,6 +145,10 @@ $(".view_crud").click(()=>{
   window.open("assets/CRUDBookStoreGuide.pdf")
 })
 
+$(".view_crud").click(()=>{
+  window.open("https://github.com/AyuVirgiana/crud-admin-toko-buku")
+})
+
 $(".view_omahkita").click(()=>{
   window.open("https://www.figma.com/proto/e3yoHmjkQfCLKh6IDAjnLZ/OmahKita?type=design&node-id=1-1151&t=UekHPVJS6GigTlOy-1&scaling=min-zoom&page-id=0%3A1&mode=design")
 })
