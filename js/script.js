@@ -164,3 +164,7 @@ $(".view_certif").click(()=>{
 $(".view_secondbite").click(()=>{
   window.open("https://drive.google.com/drive/folders/1chaCOFFjtmNyVpi0icqyds1lEfM1syQ8?usp=sharing")
 })
+
+$(".view_cisco").click(()=>{
+  window.open("assets/Sistem Manajemen Hotel Menggunakan Cisco Packet Tracer.pdf")
+})
