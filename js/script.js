@@ -158,5 +158,9 @@ $(".view_doc_omahkita").click(()=>{
 })
 
 $(".view_certif").click(()=>{
-  window.open("assets/certif/sertif.pdf")
+  window.open("assets/sertif.pdf")
+})
+
+$(".view_secondbite").click(()=>{
+  window.open("https://drive.google.com/drive/folders/1chaCOFFjtmNyVpi0icqyds1lEfM1syQ8?usp=sharing")
 })
