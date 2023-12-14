@@ -158,7 +158,7 @@ $(".view_doc_omahkita").click(()=>{
 })
 
 $(".view_certif").click(()=>{
-  window.open("assets/images/sertif.pdf")
+  window.open("assets/sertiflengkap.pdf")
 })
 
 $(".view_secondbite").click(()=>{
