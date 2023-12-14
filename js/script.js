@@ -166,5 +166,5 @@ $(".view_secondbite").click(()=>{
 })
 
 $(".view_cisco").click(()=>{
-  window.open("assets/Sistem Manajemen Hotel Menggunakan Cisco Packet Tracer.pdf")
+  window.open("assets/SistemManajemenHotelMenggunakanCiscoPacketTracer.pdf")
 })
